@@ -140,6 +140,3 @@ Our social media platform enables individuals to connect instantly through seaml
     })();
   </script>
 
-
-</body>
-</html>
