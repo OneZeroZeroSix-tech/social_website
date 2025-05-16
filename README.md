@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
 <meta charset="UTF-8">
 <title>ME</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Brush Script MT', cursive; letter-spacing:5px}
 <!-- Image in Display Container -->
 <div class="w3-padding-top-48">
 <div class="w3-display-container">
-<br><br><img src="images/group.jpg" alt="Catering" style="width:100%; height: 300px;">
+<br><img src="images/group.jpg" alt="Catering" style="width:100%; height: 300px;">
 
 <div class="w3-display-bottomleft w3-padding-small w3-opacity w3-hide-small">
 <h2>---</h2>
