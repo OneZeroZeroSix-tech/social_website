@@ -79,7 +79,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Brush Script MT', cursive; letter-spacing:5px}
 <div class="w3-half w3-padding-large">
 <h1 class="w3-center">Profile</h1>
 <p class="w3-large" style="font-family: 'Brush Script MT', cursive;">
-Our platform is a social media website where individuals can create personalized profiles and write detailed self-descriptions, similar to Wikipedia. Share your story, achievements, interests, and more in a dedicated space that truly represents you. Connect, discover, and explore others’ profiles in a community built for self-expression and meaningful interactions.</p>
+Our platform is a social media website where individuals can create personalized profiles. Connect, discover, and explore others’ profiles in a community built for self-expression and meaningful interactions.</p>
 
 </div>
 
